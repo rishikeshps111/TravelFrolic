@@ -1,0 +1,15 @@
+@import "../assets/css/bootstrap.min.css";
+@import "../assets/css/plugin.css";
+@import "../assets/css/style.css";
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css";
+@import "../assets/fonts/line-icons.css";
+
+
+footer{
+    background-image: url(../assets/images/background_pattern.png);
+}
+
+.section-shape{
+    background-image: url(../assets/images/shape8.png);
+}
